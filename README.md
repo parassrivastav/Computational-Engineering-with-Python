@@ -223,20 +223,22 @@ Choose One:
 
 ## Repository Structure
 
-/computational-engineering-with-python
-/00-mindset
-/01-python
-/02-numpy
-/03-math
-/04-numerical-methods
-/05-visualization
-/06-mechanics
-/07-optimization
-/08-signals
-/09-ai-foundations
-/10-ai-systems
-/11-domains
-/12-capstones
+```text
+computational-engineering-with-python/
+├── 00-mindset/
+├── 01-python/
+├── 02-numpy/
+├── 03-math/
+├── 04-numerical-methods/
+├── 05-visualization/
+├── 06-mechanics/
+├── 07-optimization/
+├── 08-signals/
+├── 09-ai-foundations/
+├── 10-ai-systems/
+├── 11-domains/
+└── 12-capstones/
+```
 
 ---
 
